@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berci9ke101
-- 👀 I’m interested in <insert_something_here>
-- 🌱 I’m currently learning <insert_something_here>
+- 👀 I’m interested in Networking, Photomanipulation and *Pain*.
+- 🌱 I’m currently learning Computer Science.
 - 📫 How to reach me linktr.ee/bercike10
 
 <!---
